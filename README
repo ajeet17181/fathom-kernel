@@ -1,4 +1,10 @@
-	Linux kernel release 2.6.xx <http://kernel.org/>
+modify gcc path in comp.sh and run it to make zImage
+modify gcc path in mod.sh and run it to build modules
+
+
+
+
+Linux kernel release 2.6.xx <http://kernel.org/>
 
 These are the release notes for Linux version 2.6.  Read them carefully,
 as they tell you what this is all about, explain how to install the
